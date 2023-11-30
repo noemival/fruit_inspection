@@ -7,10 +7,10 @@ By Noemi Valentini (noemi.valentini5@studio.unibo.it)
 - Report: [report](https://github.com/noemival/fruit_inspection/blob/main/report/fruit_inspection.pdf)
 
 ### FIRST TASK: FRUIT SEGMENTATION AND DEFECT DETECTION
-![task1_output](https://github.com/noemival/fruit_inspection/blob/main/img/output1.png)
+![task1_output](https://github.com/noemival/fruit_inspection/blob/main/img/out1.png)
 
 ### SECOND TASK: RUSSET DETECTION
-![task2_output](https://github.com/noemival/fruit_inspection/blob/main/img/output2.png)
+![task2_output](https://github.com/noemival/fruit_inspection/blob/main/img/out1.png)
 
 ### FINAL CHALLENGE: KIWI INSPECTION
-![task3_output](https://github.com/noemival/fruit_inspection/blob/main/img/output2.png)
+![task3_output](https://github.com/noemival/fruit_inspection/blob/main/img/out1.png)
